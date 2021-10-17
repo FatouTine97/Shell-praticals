@@ -1,0 +1,130 @@
+    1  exit
+    2  sudo -i
+    3  Desktop
+    4  cp ngork/usr/bin
+    5  cd Downloads
+    6  cd /home /kali
+    7  Desktop
+    8  sudo msfconsole
+    9  cd /home /kali
+   10  cd Downloads
+   11  cp ngork/usr/bin
+   12  Desktop
+   13  sudo msfconsole
+   14  ngrok http 80 --region eu
+   15  ngrok tcp 22
+   16  mkdir fichier
+   17  mkdir fichier1 fichier2 fichier2 fichier3 fichier4 ficchier5
+   18  ls
+   19  cp fichier1
+   20  cp
+   21  cp fichier1 fichier
+   22  pwd
+   23  cd fichier
+   24  cp fichier1
+   25  ls
+   26  cp -r fichier1
+   27  cd home
+   28  cp -r fichier1 fichier2 fichier
+   29  ls
+   30  cp -r fichier1 fichier2 fichier3fichier4 fichier5 fichier
+   31  cd fichier
+   32  ls
+   33  nano hoste
+   34  jupyter notebook
+   35  jupyter notebook
+   36  ls
+   37  cd unix
+   38  mkdir foo.txt
+   39  ls
+   40  cp foo.txt foo-copy.txt
+   41  ls
+   42  mv foo-copy.txt foo2.txt
+   43  ls
+   44  mkdir data
+   45  ls
+   46  mv foo2.txt data
+   47  ls
+   48  mkdir new
+   49  ls
+   50  mv data/foo2.txt new
+   51  mv new/foo2.txt unix
+   52  ls
+   53  mv unix foo-old.txt
+   54  ls
+   55  rm foo-old.txt
+   56  ls
+   57  rmdir new
+   58  ls
+   59  history >> exo1.txt
+   60  touch exo1.txt
+   61  ls
+   62  man ls
+   63  ls -a
+   64  help
+    1  exit
+    2  sudo -i
+    3  Desktop
+    4  cp ngork/usr/bin
+    5  cd Downloads
+    6  cd /home /kali
+    7  Desktop
+    8  sudo msfconsole
+    9  cd /home /kali
+   10  cd Downloads
+   11  cp ngork/usr/bin
+   12  Desktop
+   13  sudo msfconsole
+   14  ngrok http 80 --region eu
+   15  ngrok tcp 22
+   16  mkdir fichier
+   17  mkdir fichier1 fichier2 fichier2 fichier3 fichier4 ficchier5
+   18  ls
+   19  cp fichier1
+   20  cp
+   21  cp fichier1 fichier
+   22  pwd
+   23  cd fichier
+   24  cp fichier1
+   25  ls
+   26  cp -r fichier1
+   27  cd home
+   28  cp -r fichier1 fichier2 fichier
+   29  ls
+   30  cp -r fichier1 fichier2 fichier3fichier4 fichier5 fichier
+   31  cd fichier
+   32  ls
+   33  nano hoste
+   34  jupyter notebook
+   35  jupyter notebook
+   36  ls
+   37  cd unix
+   38  mkdir foo.txt
+   39  ls
+   40  cp foo.txt foo-copy.txt
+   41  ls
+   42  mv foo-copy.txt foo2.txt
+   43  ls
+   44  mkdir data
+   45  ls
+   46  mv foo2.txt data
+   47  ls
+   48  mkdir new
+   49  ls
+   50  mv data/foo2.txt new
+   51  mv new/foo2.txt unix
+   52  ls
+   53  mv unix foo-old.txt
+   54  ls
+   55  rm foo-old.txt
+   56  ls
+   57  rmdir new
+   58  ls
+   59  history >> exo1.txt
+   60  touch exo1.txt
+   61  ls
+   62  man ls
+   63  ls -a
+   64  help
+   65  history >> exo2.txt
+   66  touch exo2.txt
